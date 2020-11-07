@@ -7,4 +7,4 @@ categories: frugagile
 
 # Crôa … crôa !
 
-![Croâ]({{ site.url }}assets/images/FrogAgile.png)
+![Croâ](/assets/images/FrogAgile.png)
