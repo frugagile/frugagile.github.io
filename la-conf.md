@@ -1,7 +1,7 @@
 ---
 layout: page
-title: L'Asso'
-permalink: /about/
+title: La Conf'
+permalink: /la-conf/
 published: true
 ---
 
