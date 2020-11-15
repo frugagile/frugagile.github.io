@@ -19,14 +19,32 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pour une conférence agile frugale en ligne
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: img/favicon-96x96.png
 twitter_username: AgileFrug
 github_username:  frugagile
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  adarkred:  '#bf1534'
+  aredred:   '#d92929'
+  aslateblue: '#012e40'
+  adarkblue: '#023859'
+  ablue:     '#03588c'
+
+kramdown:
+  auto_ids:  false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

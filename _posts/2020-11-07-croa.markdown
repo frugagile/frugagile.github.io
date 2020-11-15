@@ -1,10 +1,30 @@
 ---
-layout: post
-title:  "Bientôt sur ce site"
-date:   2020-11-07 12:21:40 +0100
+title:  "Et en attendant"
+date:   2020-11-15 10:40:40 +0100
+bg: green
+color: white
+fa-icon: gift
+style: center
 categories: frugagile
 ---
 
-# Crôa … crôa !
+<p>… restez en contact avec nous … et suivez les aventures de FrogAgile et des froggies  sur …
 
-![Croâ](/assets/images/FrogAgile.png)
+<a href="https://www.twitter.com/AgileFrug"><span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
+</span></a>
+
+<a href="https://www.linkedin.com/company/frug-agile"><span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-linkedin fa-stack-1x" style="color: black;"></i>
+</span></a>
+
+<a href="https://www.linkedin.com/company/frug-agile"><span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-instagram fa-stack-1x" style="color: black;"></i>
+</span></a>
+
+</p>
+
+![Croâ](/img/FrogAgile.png)
