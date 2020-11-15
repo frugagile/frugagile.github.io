@@ -1,6 +1,6 @@
 ---
 title: "CFP"
-date: "2020-11-14 09:58"
+date: 2020-11-14 09:58:00 +0100
 bg: blue
 color: white
 fa-icon: snowflake-o
