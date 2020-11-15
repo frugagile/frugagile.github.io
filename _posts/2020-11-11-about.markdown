@@ -8,6 +8,6 @@ style: center
 categories: frugagile
 ---
 
-Cette conférence vous est proposé par l'association **Frug'Agile**.
+Cette conférence vous est proposée par l'association **Frug'Agile**.
 
 ![Croâ](/img/FrugAgile_logo.jpg)
