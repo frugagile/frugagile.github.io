@@ -1,6 +1,6 @@
 ---
 title: L'Asso'
-date:   2020-11-15 10:21:40 +0100
+date: 2020-11-15 10:21:40 +0100
 bg: aredred
 color: white
 fa-icon: heart

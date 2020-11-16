@@ -1,5 +1,5 @@
 ---
-title: "CFP"
+title: CFP
 date: 2020-11-14 09:58:00 +0100
 bg: blue
 color: white
@@ -14,17 +14,17 @@ Un sujet, une idée, quelque chose à faire partager à la communauté Agile fra
 
 <p> Dites-le nous
 
- <a href="https://www.twitter.com/AgileFrug"><span class="fa-stack fa-lg">
+ <a href="https://www.twitter.com/FrugAgile" target="_blank"><span class="fa-stack fa-lg">
  <i class="fa fa-circle fa-stack-2x"></i>
  <i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
  </span></a>
 
- <a href="https://www.linkedin.com/company/frug-agile"><span class="fa-stack fa-lg">
+ <a href="https://www.linkedin.com/company/frug-agile" target="_blank"><span class="fa-stack fa-lg">
  <i class="fa fa-circle fa-stack-2x"></i>
  <i class="fa fa-linkedin fa-stack-1x" style="color: black;"></i>
  </span></a>
 
- <a href="https://www.linkedin.com/company/frug-agile"><span class="fa-stack fa-lg">
+ <a href="https://www.linkedin.com/company/frug-agile" target="_blank"><span class="fa-stack fa-lg">
  <i class="fa fa-circle fa-stack-2x"></i>
  <i class="fa fa-instagram fa-stack-1x" style="color: black;"></i>
  </span></a>

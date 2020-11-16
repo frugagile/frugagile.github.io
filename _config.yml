@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Frug'Agile
+title: Conférence agile frugale en ligne | Frug'Agile
 email: frugagilefrance@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Pour une conférence agile frugale en ligne
+description: Pour une conférence frugale virtuelle (du 8 au 12 février 2021) afin d'échanger sur l'agilité et célébrer les 20 ans du manifeste !
+keywords: agile, agilité, communauté agile, conférence agile en ligne, remote agile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: img/favicon-96x96.png
-twitter_username: AgileFrug
+favicon: img/favicon.ico
+touch_icon: img/favicon-96x96.png
+twitter_username: FrugAgile
 github_username:  frugagile
 
 # Build settings

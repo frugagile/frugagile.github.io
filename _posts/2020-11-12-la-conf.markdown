@@ -1,6 +1,6 @@
 ---
 title: La Conf'
-date:   2020-11-07 12:21:40 +0100
+date: 2020-11-07 12:21:40 +0100
 bg: ablue
 color: white
 style: center
