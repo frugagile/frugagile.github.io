@@ -10,4 +10,4 @@ categories: frugagile
 
 Cette conférence vous est proposée par l'association **Frug'Agile**.
 
-![Croâ](/img/FrugAgile_logo.jpg)
+![Frug Agile](/img/FrugAgile_logo.jpg)

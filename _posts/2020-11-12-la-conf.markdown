@@ -43,4 +43,4 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-![Croâ](/img/FrugAgile_banner.jpg)
+![Frug Agile](/img/FrugAgile_banner.jpg)
