@@ -1,10 +1,11 @@
 ---
-title: CFP
+title: CFP ouvert
 date: 2020-11-14 09:58:00 +0100
 bg: blue
 color: white
 fa-icon: snowflake-o
 style: center
+class-menu: "menu-focus"
 categories: frugagile
 ---
 
@@ -14,9 +15,9 @@ Un sujet, une idée, quelque chose à faire partager à la communauté Agile fra
 
 <p> Dites-le nous ici : 
 
- <a href="https://sessionize.com/frugagile-hiver-2021" target="_blank"><span class="fa-stack fa-lg">
- <i class="fa fa-circle fa-stack-2x"></i>
- <i class="fa fa-bullhorn fa-stack-1x" style="color: black;"></i>
- </span></a>
+<a href="https://sessionize.com/frugagile-hiver-2021" target="_blank"><span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-bullhorn fa-stack-1x" style="color: black;"></i>
+</span></a>
 
 </p>

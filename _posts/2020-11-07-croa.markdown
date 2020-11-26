@@ -1,5 +1,5 @@
 ---
-title: Et en attendant
+title: en attendant
 date: 2020-11-15 10:40:40 +0100
 bg: green
 color: white
