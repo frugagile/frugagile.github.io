@@ -42,3 +42,19 @@ $theme-dark: #012E40;
         "mixins",
         "base"
 ;
+
+#titre {
+    font-size: 16px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    color: #03588C;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+#sous-titre {
+    font-size: 16px;
+    font-family: 'Merriweather';
+    color: #BF1534;
+    font-weight: 500;
+}
