@@ -4,3 +4,5 @@ _site
 assets/.DS_Store
 _mdwriter.cson
 .jekyll-metadata
+.jekyll-cache
+coverage
