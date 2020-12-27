@@ -1,11 +1,16 @@
 # Site settings
-title: FrugAgile - La conférence virtuelle et frugale
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Conférence agile frugale en ligne | Frug'Agile
+description: Pour une conférence frugale virtuelle (du 8 au 12 février 2021) afin d'échanger sur l'agilité et célébrer les 20 ans du manifeste !
+keywords: agile, agilité, communauté agile, conférence agile en ligne, remote agile, frugalité
+author: Association Frug'Agile
+baseurl: "/"
+url: "https://www.frugagile.org"
 
-twitter_username: @frugagile
+email: frugagilefrance@gmail.com
+
+twitter_username: FrugAgile
+linkedin_username: frug-agile
+instagram_username: frugagile
 
 # Build settings
 markdown: kramdown
