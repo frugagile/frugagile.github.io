@@ -43,13 +43,17 @@ $theme-dark: #012E40;
         "base"
 ;
 
+body {
+    background-color: #F5A900;
+}
+
 #titre {
     font-size: 16px;
     font-family: 'Montserrat';
-    font-weight: 400;
+    font-weight: 700;
     color: #03588C;
     text-transform: uppercase;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 #sous-titre {
@@ -57,4 +61,29 @@ $theme-dark: #012E40;
     font-family: 'Merriweather';
     color: #BF1534;
     font-weight: 500;
+}
+
+.navbar-default .nav > li > a, .navbar-default.affix .nav > li > a {
+    color: #03588C;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color : #BF1534;
+}
+
+.text-primary {
+    color: #F5A900;
+}
+
+.btn-primary, .btn-default {
+    background-color: #F5A900;
+}
+
+.btn {
+    margin : 20px;
+}
+
+.btn-yellow {
+    background-color: #03588C;
+    color: white;
 }
