@@ -76,11 +76,13 @@ body {
 }
 
 .btn-primary, .btn-default {
-    background-color: #F5A900;
+    background-color: #FFF;
+    color: #F5A900;
 }
 
 .btn {
     margin : 20px;
+    border: 1px solid #F5A900;
 }
 
 .btn-yellow {
