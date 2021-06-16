@@ -47,19 +47,26 @@ body {
     background-color: #F5A900;
 }
 
+
+p {
+    text-align: justify;
+}
+
 #titre {
-    font-size: 16px;
+    font-size: 3.2em;
+    line-height: 1.2;
     font-family: 'Montserrat';
     font-weight: 700;
-    color: #03588C;
+//    color: #03588C;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
 #sous-titre {
-    font-size: 16px;
+    margin-top: 20px;
+    font-size: 1.5em;
     font-family: 'Merriweather';
-    color: #BF1534;
+//    color: #BF1534;
     font-weight: 500;
 }
 
