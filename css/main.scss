@@ -47,27 +47,23 @@ body {
     background-color: #F5A900;
 }
 
-
-p {
-    text-align: justify;
-}
-
 #titre {
     font-size: 3.2em;
     line-height: 1.2;
     font-family: 'Montserrat';
     font-weight: 700;
 //    color: #03588C;
-    text-transform: uppercase;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    margin-top: 10%;
+    text-align: center;
 }
 
 #sous-titre {
-    margin-top: 20px;
     font-size: 1.5em;
     font-family: 'Merriweather';
 //    color: #BF1534;
     font-weight: 500;
+    margin-bottom: 0;
 }
 
 .navbar-default .nav > li > a, .navbar-default.affix .nav > li > a {
@@ -101,6 +97,10 @@ p {
     text-align: center;
 }
 
+.col-lg-6 {
+    padding: 20px 5% 0 5%;
+}
+
 .col-lg-4 {
     text-align: center;
     padding: 30px; 
@@ -110,11 +110,14 @@ p {
     margin: 20px;
 }
 
-h3 {
-    font-weight: 500;
-    color: #d90012;
-}
-
 .orateurs {
     margin-left: 22%;
+}
+
+.text-faded {
+    color: #012E40;
+}
+
+h3 {
+    color: #BF1534;
 }
