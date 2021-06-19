@@ -109,7 +109,6 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
             color: rgba(white, .7);
@@ -175,7 +174,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(white, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
