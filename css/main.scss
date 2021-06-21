@@ -43,18 +43,81 @@ $theme-dark: #012E40;
         "base"
 ;
 
+body {
+    background-color: #F5A900;
+}
+
 #titre {
-    font-size: 16px;
+    font-size: 3.2em;
+    line-height: 1.2;
     font-family: 'Montserrat';
-    font-weight: 400;
-    color: #03588C;
-    text-transform: uppercase;
+    font-weight: 700;
+  color: #FFF;
     margin-bottom: 30px;
+    margin-top: 10%;
+    text-align: center;
 }
 
 #sous-titre {
-    font-size: 16px;
+    font-size: 1.5em;
     font-family: 'Merriweather';
-    color: #BF1534;
+//    color: #BF1534;
     font-weight: 500;
+    margin-bottom: 0;
+}
+
+.navbar-default .nav > li > a, .navbar-default.affix .nav > li > a {
+    color: #03588C;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color : #BF1534;
+}
+
+.text-primary {
+    color: #F5A900;
+}
+
+.btn-primary, .btn-default {
+    background-color: #FFF;
+    color: #F5A900;
+}
+
+.btn {
+    margin : 20px;
+    border: 1px solid #F5A900;
+}
+
+.btn-yellow {
+    background-color: #03588C;
+    color: white;
+}
+
+.col-lg-8 {
+    text-align: center;
+}
+
+.col-lg-6 {
+    padding: 20px 5% 0 5%;
+}
+
+.col-lg-4 {
+    text-align: center;
+    padding: 30px; 
+}
+
+.col-lg-4 img {
+    margin: 20px;
+}
+
+.orateurs {
+    margin-left: 22%;
+}
+
+.text-faded {
+    color: #012E40;
+}
+
+h3 {
+    color: #BF1534;
 }

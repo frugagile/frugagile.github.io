@@ -1,6 +1,6 @@
 # Site settings
 title: Conférence agile frugale en ligne | Frug'Agile
-description: Pour une conférence frugale virtuelle (du 8 au 12 février 2021) afin d'échanger sur l'agilité et célébrer les 20 ans du manifeste !
+description: Pour une conférence frugale virtuelle autour de l'agilité '!
 keywords: agile, agilité, communauté agile, conférence agile en ligne, remote agile, frugalité
 author: Association Frug'Agile
 baseurl: "/"
@@ -11,9 +11,11 @@ email: frugagilefrance@gmail.com
 twitter_username: FrugAgile
 linkedin_username: frug-agile
 instagram_username: frugagile
+youtube_username : UCs_dv4WVqg4MG7ZOhU-NPUQ
+discord_id : Ga4kRWzq
 
-title_en: conference agile frugal online | Frug'Agile
-description_en: A frugal and virtual online conference (from February 8th to 12th) to discuss about agile and celebrate the 20 years anniversary of the Agile Manifesto!
+title_en: Agile online and frugal conference agile | Frug'Agile
+description_en: A frugal and virtual online conference to discuss about agile !
 keywords_en: agile, agility, agile community, online conference, remote agile, frugality
 
 # Build settings

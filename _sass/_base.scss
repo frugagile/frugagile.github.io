@@ -109,7 +109,6 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
             color: rgba(white, .7);
@@ -155,7 +154,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/headerArmenie.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -175,7 +174,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(white, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -209,6 +208,7 @@ header {
 // Sections
 
 .section-heading {
+    font-size:4em;
     margin-top: 0;
 }
 
@@ -307,7 +307,7 @@ header {
 .btn {
     @include sans-serif-font;
     border: none;
-    border-radius: 300px;
+//    border-radius: 300px;
     font-weight: 700;
     text-transform: uppercase;
 }
