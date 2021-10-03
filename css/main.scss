@@ -37,6 +37,7 @@
 $theme-primary: #BF1534;
 $theme-dark: #012E40;
 $theme-orange: #F5A900;
+$theme-red: #BF1534;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -129,10 +130,12 @@ body {
     margin-left: 22%;
 }
 
-.text-faded {
-    color: #012E40;
-}
+
 
 h3 {
     color: #BF1534;
+}
+
+.call-to-action {
+    text-align: center;
 }
