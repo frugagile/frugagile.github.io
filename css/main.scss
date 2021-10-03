@@ -94,12 +94,18 @@ body {
     color: white;
 }
 
-.col-lg-8 .portfolio-box {
-  padding: 20px;
+.programme {
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .col-lg-8 {
     text-align: center;
+}
+
+.col-lg-8.portfolio-box {
+    padding: 0;
 }
 
 .col-lg-2 {
