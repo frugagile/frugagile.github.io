@@ -1,0 +1,141 @@
+---
+---
+
+@charset "utf-8";
+
+// Example Defaults
+// $base-font-family: Helvetica, Arial, sans-serif;
+// $base-font-size:   16px;
+// $small-font-size:  $base-font-size * 0.875;
+// $base-line-height: 1.5;
+
+// $spacing-unit:     30px;
+
+// $text-color:       #111;
+// $background-color: #fdfdfd;
+// $brand-color:      #2a7ae2;
+
+// $grey-color:       #828282;
+// $grey-color-light: lighten($grey-color, 40%);
+// $grey-color-dark:  darken($grey-color, 25%);
+
+// // Width of the content area
+// $content-width:    800px;
+
+// $on-palm:          600px;
+// $on-laptop:        800px;
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// variables.less
+$theme-primary: #BF1534;
+$theme-dark: #012E40;
+$theme-orange: #F5A900;
+$theme-red: #BF1534;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "mixins",
+        "base"
+;
+
+body {
+    background-color: #F5A900;
+}
+
+#titre {
+    font-size: 3.2em;
+    line-height: 1.2;
+    font-family: 'Montserrat';
+    font-weight: 700;
+  color: #FFF;
+    margin-bottom: 30px;
+    margin-top: 10%;
+    text-align: center;
+}
+
+#sous-titre {
+    font-size: 1.5em;
+    font-family: 'Merriweather';
+//    color: #BF1534;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.navbar-default .nav > li > a, .navbar-default.affix .nav > li > a {
+    color: #03588C;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color : #BF1534;
+}
+
+.text-primary {
+    color: #F5A900;
+}
+
+.btn-primary, .btn-default {
+    background-color: #FFF;
+    color: #F5A900;
+}
+
+.btn {
+    margin : 20px;
+    border: 1px solid #F5A900;
+}
+
+.btn-yellow {
+    background-color: #03588C;
+    color: white;
+}
+
+.programme {
+    width: 91%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.col-lg-8 {
+    text-align: center;
+}
+
+.col-lg-8.portfolio-box {
+    padding: 0;
+}
+
+.col-lg-2 {
+  padding: 20px 5% 0 5%;
+}
+
+.col-lg-6 {
+    padding: 20px 5% 0 5%;
+}
+
+.col-lg-4 {
+    text-align: center;
+    padding: 30px;
+}
+
+.col-lg-4 img {
+    margin: 20px;
+}
+
+.orateurs {
+    margin-left: 22%;
+}
+
+
+
+h3 {
+    color: #BF1534;
+}
+
+.call-to-action {
+    text-align: center;
+}
